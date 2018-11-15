@@ -1,5 +1,5 @@
 # Producer
-Een combinatie tussen JMS (Topic Subscribe) en een DOM-parser/scraper. Dit project bestaat uit de onderdelen de Producer en de [Consumer](www.google.nl). Je hebt **beide** projecten nodig.
+Een combinatie tussen JMS (Topic Subscribe) en een DOM-parser/scraper. Dit project bestaat uit de onderdelen de Producer en de [Consumer](https://github.com/marnimans/Consumer). Je hebt **beide** projecten nodig.
 
 # Gebruik
 * Zorg er voor dat je [ActiveMQ](http://activemq.apache.org/activemq-5157-release.html) up and running hebt.
